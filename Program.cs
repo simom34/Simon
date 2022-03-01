@@ -14,7 +14,7 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(i);
             }
-            Console.WriteLine("pp");
+            Console.WriteLine("cp");
     }
 }
 }
